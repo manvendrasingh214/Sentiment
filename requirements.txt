@@ -1,4 +1,5 @@
 streamlit
+nltk
 pandas
 scikit-learn
 flask
